@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 480" width="100%" role="img">
+<title>方案F 边框卡片版</title>
+<style>text{font-family:'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif}</style>
+<rect x="0" y="0" width="680" height="480" fill="#FFFFFF"/>
+<rect x="12" y="12" width="656" height="456" fill="none" stroke="#D8D4C8" stroke-width="0.75"/>
+<path d="M30,12 L12,12 L12,30" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M650,12 L668,12 L668,30" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M12,450 L12,468 L30,468" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M668,450 L668,468 L650,468" fill="none" stroke="#BA7517" stroke-width="2"/>
+<line x1="244" y1="48" x2="292" y2="48" stroke="#C9C5B8" stroke-width="0.75"/>
+<text x="340" y="52" font-size="11" fill="#8A8578" letter-spacing="6" text-anchor="middle">战 略 共 识</text>
+<line x1="388" y1="48" x2="436" y2="48" stroke="#C9C5B8" stroke-width="0.75"/>
+<text x="340" y="88" font-size="19" fill="#16324F" font-weight="600" text-anchor="middle">AI时代的组织能力：用反馈迭代替代严格执行：</text>
+<rect x="334" y="94" width="79" height="2.5" fill="#BA7517"/>
+<rect x="30" y="120" width="300" height="150" rx="10" fill="#F5F4EF"/>
+<text x="46" y="162" font-size="12" fill="#3F3E3A"><tspan fill="#BA7517" font-weight="600">1、</tspan>传统公司靠人工复盘调整，未来公司通过</text>
+<text x="46" y="180" font-size="12" fill="#3F3E3A">数据+智能体+质量反馈机制自动循环：</text>
+<text x="46" y="204" font-size="11" fill="#8A8578">发现问题 <tspan fill="#BA7517">→</tspan> 分析原因 <tspan fill="#BA7517">→</tspan> 补工具 / 改规则 <tspan fill="#BA7517">→</tspan> 持续优化</text>
+<rect x="350" y="120" width="300" height="150" rx="10" fill="#F5F4EF"/>
+<text x="366" y="154" font-size="12" fill="#3F3E3A"><tspan fill="#BA7517" font-weight="600">2、</tspan>未来公司的竞争"不是人多"，</text>
+<text x="366" y="172" font-size="12" fill="#3F3E3A">而是"闭环多"，增长闭环、销售闭环、</text>
+<text x="366" y="190" font-size="12" fill="#3F3E3A">客服闭环、研发闭环、内容闭环、运营闭环……</text>
+<text x="366" y="214" font-size="11" fill="#8A8578">每个闭环具备 <tspan fill="#BA7517">感知 → 决策 → 执行 → 评估 → 学习</tspan> 能力</text>
+<rect x="30" y="290" width="300" height="150" rx="10" fill="#F5F4EF"/>
+<text x="46" y="332" font-size="12" fill="#3F3E3A"><tspan fill="#BA7517" font-weight="600">3、</tspan>企业级上下文（客户理解/业务规则/</text>
+<text x="46" y="350" font-size="12" fill="#3F3E3A">历史决策/产品路线图）成为新基建。</text>
+<text x="46" y="368" font-size="12" fill="#3F3E3A">当业务逻辑散落在人脑和文档中，</text>
+<text x="46" y="386" font-size="12" fill="#3F3E3A">AI 无法真正接管工作。</text>
+<rect x="350" y="290" width="300" height="150" rx="10" fill="#F5F4EF"/>
+<text x="366" y="326" font-size="12" fill="#3F3E3A"><tspan fill="#BA7517" font-weight="600">4、</tspan>要按照AI可读的方式来建公司，所有业务</text>
+<text x="366" y="344" font-size="12" fill="#3F3E3A">工作都要被记录，所有关键知识都要被结</text>
+<text x="366" y="362" font-size="12" fill="#3F3E3A">构化，所有流程都能够被智能体调用，所</text>
+<text x="366" y="380" font-size="12" fill="#3F3E3A">有失败都要能反馈，所有经验都要能沉淀。</text>
+</svg>

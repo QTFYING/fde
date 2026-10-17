@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 482" width="100%" role="img">
+<title>方案G 边框留白版</title>
+<style>text{font-family:'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif}</style>
+<rect x="0" y="0" width="680" height="482" fill="#FFFFFF"/>
+<rect x="12" y="12" width="656" height="458" fill="none" stroke="#D8D4C8" stroke-width="0.75"/>
+<path d="M30,12 L12,12 L12,30" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M650,12 L668,12 L668,30" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M12,452 L12,470 L30,470" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M668,452 L668,470 L650,470" fill="none" stroke="#BA7517" stroke-width="2"/>
+<line x1="244" y1="48" x2="292" y2="48" stroke="#C9C5B8" stroke-width="0.75"/>
+<text x="340" y="52" font-size="11" fill="#8A8578" letter-spacing="6" text-anchor="middle">战 略 共 识</text>
+<line x1="388" y1="48" x2="436" y2="48" stroke="#C9C5B8" stroke-width="0.75"/>
+<text x="340" y="88" font-size="19" fill="#16324F" font-weight="600" text-anchor="middle">AI时代的组织能力：用反馈迭代替代严格执行：</text>
+<rect x="334" y="94" width="79" height="2.5" fill="#BA7517"/>
+<text x="60" y="152" font-size="13" fill="#BA7517">01</text>
+<text x="95" y="152" font-size="14" fill="#16324F" font-weight="600">从"人工复盘"走向"数据驱动的自动循环"</text>
+<text x="95" y="174" font-size="12" fill="#4A4945">传统公司靠人工复盘调整，未来公司通过数据+智能体+质量反馈机制自动循环：</text>
+<text x="95" y="195" font-size="11" fill="#8A8578">发现问题 <tspan fill="#BA7517">→</tspan> 分析原因 <tspan fill="#BA7517">→</tspan> 补工具 / 改规则 <tspan fill="#BA7517">→</tspan> 持续优化</text>
+<text x="60" y="234" font-size="13" fill="#BA7517">02</text>
+<text x="95" y="234" font-size="14" fill="#16324F" font-weight="600">竞争"不是人多"，而是"闭环多"</text>
+<text x="95" y="256" font-size="12" fill="#4A4945">增长闭环、销售闭环、客服闭环、研发闭环、内容闭环、运营闭环……</text>
+<text x="95" y="277" font-size="11" fill="#8A8578">每个闭环具备 <tspan fill="#BA7517">感知 → 决策 → 执行 → 评估 → 学习</tspan> 能力</text>
+<text x="60" y="316" font-size="13" fill="#BA7517">03</text>
+<text x="95" y="316" font-size="14" fill="#16324F" font-weight="600">企业级上下文（客户理解/业务规则/历史决策/产品路线图）成为新基建</text>
+<text x="95" y="338" font-size="12" fill="#4A4945">当业务逻辑散落在人脑和文档中，AI 无法真正接管工作。</text>
+<text x="60" y="398" font-size="13" fill="#BA7517">04</text>
+<text x="95" y="398" font-size="14" fill="#16324F" font-weight="600">按"AI 可读"的方式来建公司</text>
+<text x="95" y="420" font-size="12" fill="#4A4945">所有业务工作都要被记录，所有关键知识都要被结构化，</text>
+<text x="95" y="439" font-size="12" fill="#4A4945">所有流程都能够被智能体调用——所有失败都要能反馈，所有经验都要能沉淀。</text>
+</svg>

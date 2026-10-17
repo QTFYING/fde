@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 479" width="100%" role="img">
+<title>方案E 闭环图解 边框版</title>
+<defs><marker id="arrowE2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#BA7517" stroke-width="1.5" stroke-linecap="round"/></marker></defs>
+<style>text{font-family:'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif}</style>
+<rect x="12" y="12" width="656" height="455" fill="none" stroke="#D8D4C8" stroke-width="0.75"/>
+<path d="M30,12 L12,12 L12,30" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M650,12 L668,12 L668,30" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M12,449 L12,467 L30,467" fill="none" stroke="#BA7517" stroke-width="2"/>
+<path d="M668,449 L668,467 L650,467" fill="none" stroke="#BA7517" stroke-width="2"/>
+<text x="40" y="56" font-size="11" fill="#BA7517" letter-spacing="3">战略共识 · STRATEGIC CONSENSUS</text>
+<rect x="40" y="66" width="36" height="3" fill="#BA7517"/>
+<text x="40" y="102" font-size="20" fill="#0C447C" font-weight="600">AI 时代的组织能力：用「反馈迭代」代替「严格执行」</text>
+<circle cx="140" cy="300" r="72" fill="none" stroke="#B5D4F4" stroke-width="1.5" stroke-dasharray="4 5"/>
+<path transform="translate(182,242) rotate(36)" d="M-4,-3.5 L5,0 L-4,3.5 Z" fill="#BA7517"/>
+<path transform="translate(208,322) rotate(108)" d="M-4,-3.5 L5,0 L-4,3.5 Z" fill="#BA7517"/>
+<path transform="translate(140,372) rotate(180)" d="M-4,-3.5 L5,0 L-4,3.5 Z" fill="#BA7517"/>
+<path transform="translate(72,322) rotate(252)" d="M-4,-3.5 L5,0 L-4,3.5 Z" fill="#BA7517"/>
+<path transform="translate(98,242) rotate(324)" d="M-4,-3.5 L5,0 L-4,3.5 Z" fill="#BA7517"/>
+<circle cx="140" cy="228" r="19" fill="#185FA5"/>
+<text x="140" y="228" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">感知</text>
+<circle cx="208" cy="278" r="19" fill="#185FA5"/>
+<text x="208" y="278" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">决策</text>
+<circle cx="182" cy="358" r="19" fill="#185FA5"/>
+<text x="182" y="358" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">执行</text>
+<circle cx="98" cy="358" r="19" fill="#185FA5"/>
+<text x="98" y="358" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">评估</text>
+<circle cx="72" cy="278" r="19" fill="#185FA5"/>
+<text x="72" y="278" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">学习</text>
+<text x="140" y="296" font-size="13" fill="#0C447C" font-weight="600" text-anchor="middle">反馈迭代</text>
+<text x="140" y="314" font-size="11" fill="#888780" text-anchor="middle">自动循环</text>
+<line x1="240" y1="140" x2="240" y2="450" stroke="#E7E4DA" stroke-width="0.5"/>
+<text x="262" y="150" font-size="14"><tspan fill="#BA7517" font-size="13">01</tspan><tspan fill="#0C447C" font-weight="600">  从"人工复盘"走向"数据驱动的自动循环"</tspan></text>
+<text x="262" y="172" font-size="12" fill="#5F5E5A">传统公司靠人工复盘调整，未来的公司用</text>
+<text x="262" y="190" font-size="12" fill="#5F5E5A">数据 + 智能体 + 质量反馈机制自动循环。</text>
+<text x="262" y="212" font-size="11" fill="#888780">发现问题 <tspan fill="#BA7517">→</tspan> 分析原因 <tspan fill="#BA7517">→</tspan> 补工具 / 改规则 <tspan fill="#BA7517">→</tspan> 持续优化</text>
+<text x="262" y="244" font-size="14"><tspan fill="#BA7517" font-size="13">02</tspan><tspan fill="#0C447C" font-weight="600">  竞争"不是人多"，而是"闭环多"</tspan></text>
+<text x="262" y="266" font-size="12" fill="#5F5E5A">增长、销售、客服、研发、内容、运营……</text>
+<text x="262" y="284" font-size="12" fill="#5F5E5A">每个闭环都要具备完整的迭代能力。</text>
+<text x="262" y="306" font-size="11" fill="#888780">感知 <tspan fill="#BA7517">→</tspan> 决策 <tspan fill="#BA7517">→</tspan> 执行 <tspan fill="#BA7517">→</tspan> 评估 <tspan fill="#BA7517">→</tspan> 学习</text>
+<text x="262" y="338" font-size="14"><tspan fill="#BA7517" font-size="13">03</tspan><tspan fill="#0C447C" font-weight="600">  企业级上下文，成为新基建</tspan></text>
+<text x="262" y="360" font-size="12" fill="#5F5E5A">客户理解、业务规则、历史决策、产品路线图，都需要沉淀为公司资产。</text>
+<text x="262" y="378" font-size="12" fill="#5F5E5A">业务规则散落在人脑和文档里，AI 就无法真正接管工作。</text>
+<text x="262" y="410" font-size="14"><tspan fill="#BA7517" font-size="13">04</tspan><tspan fill="#0C447C" font-weight="600">  按"AI 可读"的方式建立公司</tspan></text>
+<text x="262" y="432" font-size="12" fill="#5F5E5A">所有业务工作都记录、关键知识结构化、流程都被数据调用</text>
+<text x="262" y="450" font-size="12" fill="#5F5E5A">——失败能反馈，经验能沉淀。</text>
+</svg>
